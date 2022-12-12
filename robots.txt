@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://metalpass.com.br/sitemap.xml
-Host: https://metalpass.com.br
