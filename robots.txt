@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://consultorialima.netlify.app/sitemap.xml
+Host: https://consultorialima.netlify.app
